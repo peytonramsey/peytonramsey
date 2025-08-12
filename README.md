@@ -1,32 +1,65 @@
-About Me
+# Hi there, I'm Peyton Ramsey 👋
 
-I'm a recent graduate from UNH's Peter T. Paul College with a BS in Business Administration, specializing in Information Systems & Business Analytics. What started as uncertainty about my path transformed into a genuine passion for data science and machine learning during my junior year - a discovery that not only improved my academic performance but also led to my acceptance into UNH's MS in Business Analytics program, which I'll begin this fall.
+**MS Business Analytics Student | Data Engineer | ML Practitioner**
 
-What I Do
+Pursuing my MSBA at University of New Hampshire, building enterprise-scale data solutions and ML models for insurance operations.
 
-I'm passionate about data visualization and turning complex datasets into clear, actionable insights. My experience as a BI & Data Intern at Sprague Energy taught me how to translate business needs into analytical solutions, building star schema data models and creating Power BI dashboards that drive decision-making.
-Technical Skills
+## 🚀 Current Focus
+- **Enterprise Data Engineering**: Managing 100M+ row datasets with AWS, ETL pipelines, and data warehouse integration
+- **Interactive Analytics**: Building R Shiny dashboards with dynamic visualizations and predictive models
+- **Academic Research**: Graduate research in AI/Big Data applications for business education
 
-Languages: Python, R, SQL
-Specialties: Data visualization, statistical modeling, predictive analysis
-Tools: Power BI, ggplot2, machine learning algorithms
-Current Learning: Advanced ML techniques, optimization, cloud analytics
+## 🛠️ Tech Stack
 
-Featured Projects
+**Languages**
+- **Python**: pandas, NumPy, Seaborn, Matplotlib
+- **R**: tidyverse, Shiny, ggplot2, dplyr, purrr, tidymodels
+- **SQL**: MySQL, SSMS
 
-🏠 Airbnb SF Market Prediction - Built supervised ML models to predict high-booking listings with 95% ROC AUC using Random Forest, achieving 14.3% projected booking rate improvement
-📊 Data Visualization Portfolio - Collection of R and Python projects showcasing my passion for turning data into compelling visual stories
+**Tools & Technologies**
+- **Analytics**: Statistical Modeling, Predictive Analytics, Time Series Analysis, Feature Engineering
+- **Visualization**: Power BI (DAX), Tableau, Plotly
+- **Cloud & Infrastructure**: AWS, Database Design
+- **Development**: Jupyter Notebook, GitHub
 
-Looking Forward
+## 🎯 Featured Project: Airbnb Booking Success Prediction
 
-I'm actively seeking data science and machine learning roles where I can apply my analytical skills and continue growing in this field. I love collaborating with others who share the same enthusiasm for extracting insights from data and solving real-world problems.
+**95% AUC Random Forest Model** predicting high-booking properties using San Francisco market data (12,947 properties)
 
-Let's Connect!
+**Key Achievements:**
+- 22-point performance improvement through advanced feature engineering
+- LASSO regularization revealed that additional bedrooms increase booking odds by 65%
+- Strategic discount pricing analysis (14.3% weekly) outperformed industry standard (5%)
+- Comprehensive ROC analysis and geographic price mapping for stakeholder insights
 
-📧 Feel free to reach out if you'd like to collaborate or discuss data science opportunities!
-📍 Based in Greater Boston
+**Tech Used:** Python, Random Forest, Logistic Regression, Light GBM, LASSO regularization
 
-<!---
-peytonramsey/peytonramsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 Professional Experience
+
+**Nassau Financial Group** - *Lead Developer/Data Engineer Intern*
+- Delivered comprehensive TPA Oversight Dashboard improving regulatory compliance
+- Engineered ETL pipelines harmonizing 7+ heterogeneous data sources
+- Developed weighted quality scoring algorithms and logistic regression risk models
+- Presented to 50+ stakeholders including C-suite executives
+
+**UNH** - *Data Science & AI Graduate Research Assistant*
+- Modernizing business course materials (R Markdown → Quarto)
+- Research collaboration with faculty on AI/Big Data applications
+
+## 📈 Recent Work
+- **Insurance Risk Analytics**: Predictive models for 120,000+ policies
+- **Crowdfunding Analysis**: SEC dataset integration analyzing 848 issuers
+- **Business Intelligence**: Cross-functional data modeling with star schema design
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+- **Data Engineering & Analytics** opportunities
+- **Open source collaborations** in ML/data science
+- **Research partnerships** in business analytics
+
+📧 ramseypeyton@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/peytonr-msba/) | 📱 (860) 515-6245
+
+---
+
+*Building data-driven solutions that bridge technical innovation with business impact*
