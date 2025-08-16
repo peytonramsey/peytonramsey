@@ -32,7 +32,7 @@ Pursuing my MSBA at University of New Hampshire, building enterprise-scale data 
 - Strategic discount pricing analysis (14.3% weekly) outperformed industry standard (5%)
 - Comprehensive ROC analysis and geographic price mapping for stakeholder insights
 
-**Tech Used:** Python, Random Forest, Logistic Regression, Light GBM, LASSO regularization
+**Tech Used:** R, Random Forest, Logistic Regression, Light GBM, LASSO regularization
 
 ## 💼 Professional Experience
 
