@@ -58,7 +58,7 @@ I'm always interested in:
 - **Open source collaborations** in ML/data science
 - **Research partnerships** in business analytics
 
-📧 ramseypeyton@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/peytonr-msba/) | 📱 (860) 515-6245
+📧 ramseypeyton@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/peytonr-msba/)
 
 ---
 
