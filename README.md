@@ -46,17 +46,12 @@ Pursuing my MSBA at University of New Hampshire, building enterprise-scale data 
 - Modernizing business course materials (R Markdown → Quarto)
 - Research collaboration with faculty on AI/Big Data applications
 
-## 📈 Recent Work
-- **Insurance Risk Analytics**: Predictive models for 120,000+ policies
-- **Crowdfunding Analysis**: SEC dataset integration analyzing 848 issuers
-- **Business Intelligence**: Cross-functional data modeling with star schema design
-
 ## 🤝 Let's Connect
 
 I'm always interested in:
 - **Data Engineering & Analytics** opportunities
 - **Open source collaborations** in ML/data science
-- **Research partnerships** in business analytics
+- **Research partnerships** in using Machine Learning and Data Science to improve business analytics
 
 📧 ramseypeyton@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/peytonr-msba/)
 
