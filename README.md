@@ -1,4 +1,4 @@
-# Hi there, I'm Peyton Ramsey 👋
+# Hey welcome to my page, I'm Peyton Ramsey 
 
 **MS Business Analytics Student | Data Engineer | ML Practitioner**
 
