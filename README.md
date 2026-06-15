@@ -39,6 +39,6 @@ A few of the projects I’m most proud of are pinned below.
 
 ## Connect
 
-- Portfolio: [your portfolio link]
-- LinkedIn: [your LinkedIn]
-- Email: [your email]
+- Portfolio: [[your portfolio link](https://peytonramsey.github.io/)]
+- LinkedIn: [[your LinkedIn]](https://www.linkedin.com/in/peytonr-msba/)
+- Email: [your email](ramseypeyton@gmail.com)
