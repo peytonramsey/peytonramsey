@@ -1,60 +1,44 @@
-# Hey welcome to my page, I'm Peyton Ramsey 
+# Hey, I’m Peyton Ramsey
 
-**MS Business Analytics Student | Data Engineer | ML Practitioner**
+I’m a data scientist who likes building things people actually use.
 
-Pursuing my MSBA at University of New Hampshire, building enterprise-scale data solutions and ML models for insurance operations.
+Most of my work sits somewhere between data science, machine learning, data engineering, and applied AI. I like projects where the model matters, but the system around the model matters just as much.
 
-## 🚀 Current Focus
-- **Enterprise Data Engineering**: Managing 100M+ row datasets with AWS, ETL pipelines, and data warehouse integration
-- **Interactive Analytics**: Building R Shiny dashboards with dynamic visualizations and predictive models
-- **Academic Research**: Graduate research in AI/Big Data applications for business education
+A lot of what I build starts with a pretty simple question:
+why is this annoying, slow, noisy, or hard to trust — and how can I make it better?
 
-## 🛠️ Tech Stack
+That has led me into things like:
+- ML models for real prediction problems
+- RAG systems for messy information
+- data pipelines and dashboards for teams
+- full-stack tools I wanted badly enough to build for myself
 
-**Languages**
-- **Python**: pandas, NumPy, Seaborn, Matplotlib
-- **R**: tidyverse, Shiny, ggplot2, dplyr, purrr, tidymodels
-- **SQL**: MySQL, SSMS
+I’m especially interested in work where the output has to be useful in the real world, not just technically impressive.
 
-**Tools & Technologies**
-- **Analytics**: Statistical Modeling, Predictive Analytics, Time Series Analysis, Feature Engineering
-- **Visualization**: Power BI (DAX), Tableau, Plotly
-- **Cloud & Infrastructure**: AWS, Database Design
-- **Development**: Jupyter Notebook, GitHub
+A few things that shape how I work:
+- I like going deep on niche problems until I actually understand them
+- I care a lot about whether a tool feels usable, not just whether it runs
+- I think AI is best used as a skill multiplier, not a shortcut
+- I’d rather build something practical and sharp than something flashy and vague
 
-## 🎯 Featured Project: Airbnb Booking Success Prediction
+Outside of work, I ran Division I cross country and track at UNH, and I’m usually into some combination of lifting, cycling, football, and reading.
 
-**95% AUC Random Forest Model** predicting high-booking properties using San Francisco market data (12,947 properties)
+## What you’ll find here
 
-**Key Achievements:**
-- 22-point performance improvement through advanced feature engineering
-- LASSO regularization revealed that additional bedrooms increase booking odds by 65%
-- Strategic discount pricing analysis (14.3% weekly) outperformed industry standard (5%)
-- Comprehensive ROC analysis and geographic price mapping for stakeholder insights
+Projects across:
+- data science
+- machine learning
+- RAG / LLM applications
+- data engineering
+- analytics
+- full-stack builds
 
-**Tech Used:** R, Random Forest, Logistic Regression, Light GBM, LASSO regularization
+## Featured work
 
-## 💼 Professional Experience
+A few of the projects I’m most proud of are pinned below.
 
-**Nassau Financial Group** - *Lead Developer/Data Engineer Intern*
-- Delivered comprehensive TPA Oversight Dashboard improving regulatory compliance
-- Engineered ETL pipelines harmonizing 7+ heterogeneous data sources
-- Developed weighted quality scoring algorithms and logistic regression risk models
-- Presented to 50+ stakeholders including C-suite executives
+## Connect
 
-**UNH** - *Data Science & AI Graduate Research Assistant*
-- Modernizing business course materials (R Markdown → Quarto)
-- Research collaboration with faculty on AI/Big Data applications
-
-## 🤝 Let's Connect
-
-I'm always interested in:
-- **Data Engineering & Analytics** opportunities
-- **Open source collaborations** in ML/data science
-- **Research partnerships** in using Machine Learning and Data Science to improve business analytics
-
-📧 ramseypeyton@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/peytonr-msba/)
-
----
-
-*Building data-driven solutions that bridge technical innovation with business impact*
+- Portfolio: [your portfolio link]
+- LinkedIn: [your LinkedIn]
+- Email: [your email]
