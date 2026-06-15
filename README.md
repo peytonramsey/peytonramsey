@@ -1,4 +1,4 @@
-# Hey, I’m Peyton Ramsey
+# Hey, I’m Peyton
 
 I’m a data scientist who likes building practical systems at the intersection of ML, analytics, and applied AI.
 
